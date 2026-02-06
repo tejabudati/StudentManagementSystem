@@ -259,3 +259,4 @@ This project helped reinforce:
 \* Migration to Spring Boot for scalability
 
 <img width="1919" height="1042" alt="image" src="https://github.com/user-attachments/assets/a013c51f-7d87-4067-aaf6-4d40ca608ffd" />
+
